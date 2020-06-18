@@ -10,5 +10,5 @@ My name is **Somil Swapnil Chandra**, I am persuing Btech from **DIT University 
  I really think that these tutorials on git have greatly enchanced my knowledge and have 
  done a commendable job in developing a developer's insight.
 
- At last a very warm and heartly thnx to all the *git mentors* for such an enthusiastic initiative
+ At last a very warm and heartly thnx to all the **git mentors** for such an enthusiastic initiative
  
