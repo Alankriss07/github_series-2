@@ -1,4 +1,4 @@
-# GitHub Series - Task 5
+## GitHub Series - Task 5
 ========================
 
 ## How GitHub works ?
@@ -9,24 +9,24 @@ repository. Then, a pull request is made asking owner of repo to implement the c
 #### Fundamental elements of git workflow
 
 Git Workflow consist of the four fundamental elements: 
-ï **Workspace**(also known as Working Directory) and if we consider a file, it can have 3 states:
+‚Ä¢ **Workspace**(also known as Working Directory) and if we consider a file, it can have 3 states:
     (a)Committed : meaning latest changes in the data is stored in local repo.
     (b)Modified: means the changes are done but are not securely stored or will not be reflected in local repository.
     (c)Staged: meaning file is part of index element.
 
-ï **Index**(also known as Stage)
-ï **Local Repository**(also known as Head)
-ï **Remote Repository**
+‚Ä¢ **Index**(also known as Stage)
+‚Ä¢ **Local Repository**(also known as Head)
+‚Ä¢ **Remote Repository**
 
 ## What is Cloning?   
-The git clone *command* copies an existing **Git repository**. This is sort of like SVN checkout, except the ìworking copyî is a full-fledged 
-Git repositoryóit has its own history, manages its own files, and is a completely isolated environment from the original repository.
+The git **clone** command copies an existing **Git repository**. This is sort of like SVN checkout, except the ‚Äúworking copy‚Äù is a full-fledged 
+Git repository‚Äîit has its own history, manages its own files, and is a completely isolated environment from the original repository.
 **Cloning a GitHub repository creates a local copy of the remote repo.** This allows you to make all of your edits locally rather than
- directly in the source files of the origin repo. Hereís how to clone a GitHub repository.
+ directly in the source files of the origin repo. Here‚Äôs how to clone a GitHub repository.
 
 ## What is Forking?
 A fork is a **copy of a repository**. Forking a repository allows you to freely experiment with changes without affecting the original
- project.Creating a *"forkî* is producing a personal copy of someone else's project.
+ project.Creating a **"fork‚Äù** is producing a personal copy of someone else's project.
 When you fork a repository, you create a copy of the original repository (upstream repository) but the repository remains on your GitHub account.
  Whereas, when you clone a repository, the repository is copied on to your local machine with the help of Git.
 Fork in git means making a personal copy of others repository which we can modify without affecting the original project whereas Clone 
@@ -36,8 +36,8 @@ is used to create a local copy of the remote repository. This process helps us t
  Pull requests let you tell others about changes you've pushed to a GitHub repository. Once a pull request is sent, 
 interested parties can review the set of changes, discuss potential modifications, and even push follow-up commits if necessary.**
 
-## Issues:
-Issues are a great way to keep track of tasks, enhancements, and bugs for your projects. Theyíre kind of like emailóexcept they can be 
-shared and discussed with the rest of your team. Most software projects have a bug tracker of some kind. GitHubís tracker is called Issues,
+## Issues :
+Issues are a great way to keep track of tasks, enhancements, and bugs for your projects. They‚Äôre kind of like email‚Äîexcept they can be 
+shared and discussed with the rest of your team. Most software projects have a bug tracker of some kind. GitHub‚Äôs tracker is called Issues,
  and has its own section in every repository.
 
